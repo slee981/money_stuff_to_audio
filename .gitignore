@@ -6,6 +6,7 @@
 # output
 *.mp3
 *.txt
+rename_old_files.py
 
 # cached file
 __pycache__
