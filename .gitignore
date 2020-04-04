@@ -1,0 +1,15 @@
+# environment files
+.env
+.vscode 
+.boto
+
+# output
+*.mp3
+*.txt
+
+# cached file
+__pycache__
+.DS_Store
+
+# config file
+config.py
